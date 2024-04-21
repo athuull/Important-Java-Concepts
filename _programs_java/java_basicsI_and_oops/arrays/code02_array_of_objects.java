@@ -17,7 +17,7 @@ public class GFG
 {
 	public static void main (String[] args)
 	{
-		// declares an Array of integers.
+		// declares an Array of type Student.
 		Student[] arr;
 
 		// allocating memory for 5 objects of type Student.
